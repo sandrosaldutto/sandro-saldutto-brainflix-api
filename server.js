@@ -7,15 +7,15 @@ app.use(express.json())
 
 app.use(cors());
 
-app.use((req, res, next) => {
-    res.status(200).send({
-        message: "successful"
-    })
-})
+// app.use((req, res, next) => {
+//     res.status(200).send({
+//         message: "successful"
+//     })
+// })
 
 // routes
 const videosRoutes = require("./routes/videos");
-app.use("/videos", videosRoutes);
+app.use("/", videosRoutes);
 
 // listen
 app.listen(8080, () => {
