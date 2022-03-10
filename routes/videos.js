@@ -37,16 +37,16 @@ router.route("/")
 .post((_req,res) => {
   const newVideo = {
     id: uuidv4(),
-    title: req.body.title,
-    channel: req.body.channel,
-    image: req.body.image,
-    description: req.body.description,
-    views: req.body.views,
-    likes: req.body.likes,
-    timestamp: req.body.timestamp,
-    comments: req.body.comments,
-    duration: req.body.duration,
-    video: req.body.video,
+    title: _req.body.title,
+    channel: _req.body.channel,
+    image: _req.body.image,
+    description: _req.body.description,
+    views: _req.body.views,
+    likes: _req.body.likes,
+    timestamp: _req.body.timestamp,
+    comments: _req.body.comments,
+    duration: _req.body.duration,
+    video: _req.body.video,
   }
 
   let videos = getVideos();
