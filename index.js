@@ -18,5 +18,4 @@ app.use("/videos", videosRoutes);
 // listen
 app.listen(process.env.PORT, () => {
     console.log(process.env)
-    console.log("server is on port 8080")
 })
