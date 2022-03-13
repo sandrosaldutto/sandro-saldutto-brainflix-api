@@ -6,11 +6,14 @@ require("dotenv").config();
 
 app.use(express.json())
 
+app.use(express.static("public"));
+
 app.use(cors());
 
 // routes
 const videosRoutes = require("./routes/videos");
 app.use("/videos", videosRoutes);
+
 
 // listen
 app.listen(process.env.PORT, () => {

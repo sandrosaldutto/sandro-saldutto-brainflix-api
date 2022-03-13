@@ -2,7 +2,7 @@
     {
         "title": "BMX Rampage: 2021 Highlights",
         "channel": "Red Cow",
-        "image": "https://i.imgur.com/l2Xfgpl.jpg",
+        "image": "http://localhost:8080/images/bmx.jpg",
         "description": "On a gusty day in Southern Utah, a group of 25 daring mountain bikers blew the doors off what is possible on two wheels, unleashing some of the biggest moments the sport has ever seen. While mother nature only allowed for one full run before the conditions made it impossible to ride, that was all that was needed for event veteran Kyle Strait, who won the event for the second time -- eight years after his first Red Cow Rampage title",
         "views": "1,001,023",
         "likes": "110,985",
@@ -34,7 +34,7 @@
     {
         "title": "Become A Travel Pro In One Easy Lesson",
         "channel": "Todd Welch",
-        "image": "https://i.imgur.com/5qyCZrD.jpg",
+        "image": "http://localhost:8080/images/travel-pro.jpeg",
         "description": "Luxury is something everyone deserves from time to time. Such an indulgence can make a vacation a truly rejuvenating experience. This video will focus a lot on helping the first time or inexperienced traveler head out prepared and confident in themselves.",
         "views": "2,043,765",
         "likes": "400,058",
@@ -66,7 +66,7 @@
     {
         "title": "Les Houches The Hidden Gem Of The Chamonix",
         "channel": "Cornelia Blair",
-        "image": "https://i.imgur.com/yFS8EBr.jpg",
+        "image": "http://localhost:8080/images/hidden-gem.jpeg",
         "description": "Les Houches, located 6 kilometres from Chamonix, is a ski resort with a domain which extends from an altitude of 950 metres up to 1900 metres. Long descents through tree-lined slopes are combined with impressive views of the Mont Blanc massif and the Chamonix valley. Les Houches is twinned with the Russian villages of Sochi and Krasnaya-Polyana and was chosen by the International Olympic Committee to assist in the organization of the 2014 Winter Olympic Games. Watch for more fun facts!",
         "views": "16,950",
         "likes": "3,856",
@@ -98,7 +98,7 @@
     {
         "title": "Travel Health Useful Medical Information For",
         "channel": "Glen Harper",
-        "image": "https://i.imgur.com/MMDMgD7.jpg",
+        "image": "http://localhost:8080/images/travel-health.jpeg",
         "description": "Concerned about your health while travelling? You should know that international travellers should always be extra concerned about their health and safety. This video provides essential information on travel health risks and preventive measures to keep you and your loved ones safe during your travels.",
         "views": "739,945",
         "likes": "98,352",
@@ -130,7 +130,7 @@
     {
         "title": "Cheap Airline Tickets Great Ways To Save",
         "channel": "Emily Harper",
-        "image": "https://i.imgur.com/ibLw5q5.jpg",
+        "image": "http://localhost:8080/images/airline-tickets.jpeg",
         "description": "Want to know how to get cheap flights? This video has great tips on how to book the cheapest flight possible to anywhere in the world. Remember, Keep your searches top secret. Use the best flight search engines. Identify the cheapest day to fly out. Fly for free with points. Befriend budget airlines. Search for airline error and sale fares. Book connecting flights yourself for less. ",
         "views": "72,342",
         "likes": "8,785",
@@ -162,7 +162,7 @@
     {
         "title": "Take A Romantic Break In A Boutique Hotel",
         "channel": "Ethan Owen",
-        "image": "https://i.imgur.com/7rD6Mf6.jpg",
+        "image": "http://localhost:8080/images/romantic-hotel.jpeg",
         "description": "Your loved one has been dreaming about a romantic getaway with you, if you want to bring the spark back into your relationship this is the place to go! Small and design-forward, boutique hotels promise a more intimate vacation stay, each one chock-full of character while offering plenty of inimitable features (from exposed brick to panoramic ocean views)",
         "views": "345,987",
         "likes": "76,588",
@@ -192,9 +192,9 @@
         "id": "9c268c0a-83dc-4b96-856a-bb5ded2772b1"
     },
     {
-        "title": "Choose the Perfect Accommodations",
+        "title": "Choose the Perfect Accomodations",
         "channel": "Lydia Perez",
-        "image": "https://i.imgur.com/0hi3N4B.jpg",
+        "image": "http://localhost:8080/images/accomidations.jpeg",
         "description": "Worried about finding the perfect travel accommodations? There are many things to consider when booking an accommodation. Consider picking the right location. Location is an important consideration for an enjoyable stay. Check the rating and price. Consider apartment or condo rentals. Weigh the food options. Is it family-friendly? Watch for extra fees. Assess the on-site amenities.",
         "views": "252,796",
         "likes": "4,905",
@@ -210,13 +210,13 @@
             },
             {
                 "name": "Suzie Maxwell",
-                "comment": "I wish I could print out a video to show to my travel agent. Oh, what am I saying – they have a computer! Much appreciated advice, I can’t wait to put it into action soon.",
+                "comment": "I wish I could print out a video to show to my travel agent. Oh, what am I saying - they have a computer! Much appreciated advice, I can’t wait to put it into action soon.",
                 "likes": 1,
                 "timestamp": 1631799181000
             },
             {
                 "name": "Alasie Rivers",
-                "comment": "From five-star hotels to the cheapest spots – wherever you like to stay, THIS is the way to do it! I’ll take sunlight and a cozy reading corner over a pool any day of the week.",
+                "comment": "From five-star hotels to the cheapest spots - wherever you like to stay, THIS is the way to do it! I’ll take sunlight and a cozy reading corner over a pool any day of the week.",
                 "likes": 0,
                 "timestamp": 1631716921000
             }
@@ -226,7 +226,7 @@
     {
         "title": "Cruising Destination Ideas",
         "channel": "Timothy Austin",
-        "image": "https://i.imgur.com/DDJNZNw.jpg",
+        "image": "http://localhost:8080/images/cruise.jpeg",
         "description": "Do you dream of sailing in to the sunset without a care in the world? Going on a cruise can be the perfect way to make this dream come true. If you’re considering taking your very first cruise, think about the various advantages. A cruise vacation offers great value as almost everything is included, from accommodation and food to entertainment and transfers.",
         "views": "29,984",
         "likes": "2,552",
@@ -236,7 +236,7 @@
         "comments": [
             {
                 "name": "Jesse Cruz",
-                "comment": "There’s no place quite like the open ocean. Wind in your sails. The cool mist is perfect to wake you up in the morning and lull you to sleep in the evening. What an experience.",
+                "comment": "There's no place quite like the open ocean. Wind in your sails. The cool mist is perfect to wake you up in the morning and lull you to sleep in the evening. What an experience.",
                 "likes": 0,
                 "timestamp": 1632227521000
             },
@@ -252,7 +252,7 @@
     {
         "title": "Train Travel On Track For Safety",
         "channel": "Scotty Cranmer",
-        "image": "https://i.imgur.com/i6S8m7I.jpg",
+        "image": "http://localhost:8080/images/train-travel.jpeg",
         "description": "Traveling by train can be convenient, enjoyable and economical. You can minimize your risk of injury, illness, and theft by taking a few simple precautions. Before you travel, you should pack only the necessities. This will make your luggage easy to carry and store during your travels. You should always assume that the tap water on the train is not potable. Whenever it is possible, stock up on bottles of water to reduce the risk of dehydration. Remember, never accept food or drinks from strangers!",
         "views": "3,092,284",
         "likes": "75,985",
@@ -262,13 +262,13 @@
         "comments": [
             {
                 "name": "Martin Evergreen",
-                "comment": "I’ve loved trains ever since I was a child. I dreamed about riding one around the world. This is the most fantastic thing I’ve seen yet, and I’m watching it ON a train!",
+                "comment": "I've loved trains ever since I was a child. I dreamed about riding one around the world. This is the most fantastic thing I’ve seen yet, and I’m watching it ON a train!",
                 "likes": 3,
                 "timestamp": 1632512763000
             },
             {
                 "name": "Emily Harper",
-                "comment": "Let’s collaborate on a video for saving money on cheap train tickets! I’ll have my associates contact yours.",
+                "comment": "Let's collaborate on a video for saving money on cheap train tickets! I’ll have my associates contact yours.",
                 "likes": 0,
                 "timestamp": 1632496261000
             }
@@ -276,10 +276,11 @@
         "id": "76ca28c0-7dea-4553-887f-8e5129a80fc3"
     },
     {
-        "id": "13fc5323-8b93-4aa6-bb64-c597e85e9380",
-        "title": "ssssss",
+        "id": "4997000e-3a4f-40c3-9cb9-d45dc66b2d83",
+        "title": "sss",
         "channel": "Blue Eagle",
-        "description": "sssss",
+        "image": "http://localhost:8080/images/Upload-video-preview.jpg",
+        "description": "sss",
         "views": "1,000,000",
         "likes": "150,000",
         "timestamp": 1626352571000,
@@ -306,10 +307,11 @@
         "duration": "3:51"
     },
     {
-        "id": "9a095d16-9863-493b-8a22-fc76f92b6662",
-        "title": "ssssss",
+        "id": "764fa940-f39d-45fd-bba3-e0322e70ac0d",
+        "title": "sss",
         "channel": "Blue Eagle",
-        "description": "sssss",
+        "image": "http://localhost:8080/images/Upload-video-preview.jpg",
+        "description": "sss",
         "views": "1,000,000",
         "likes": "150,000",
         "timestamp": 1626352571000,
@@ -336,10 +338,352 @@
         "duration": "3:51"
     },
     {
-        "id": "7cadb4c2-2114-4478-b213-1ea2eb0caccc",
-        "title": "ssssss",
+        "id": "18b041eb-d275-4091-927b-9f067f621be4",
+        "title": "ssss",
         "channel": "Blue Eagle",
-        "description": "sssss",
+        "image": "http://localhost:8080/images/Upload-video-preview.jpg",
+        "description": "sss",
+        "views": "1,000,000",
+        "likes": "150,000",
+        "timestamp": 1626352571000,
+        "comments": [
+            {
+                "name": "Joe Jones",
+                "comment": "This is the greatest video ever",
+                "likes": 0,
+                "timestamp": 1628622461000
+            },
+            {
+                "name": "Mike Willams",
+                "comment": "This video is sub-par",
+                "likes": 0,
+                "timestamp": 1623359541000
+            },
+            {
+                "name": "Dave Duncan",
+                "comment": "This video is the epidome of awsome",
+                "likes": 0,
+                "timestamp": 1626012132000
+            }
+        ],
+        "duration": "3:51"
+    },
+    {
+        "id": "c6365603-c62f-4cd6-abd7-f7c9264b8e4a",
+        "title": "ssss",
+        "channel": "Blue Eagle",
+        "image": "http://localhost:8080/images/Upload-video-preview.jpg",
+        "description": "sss",
+        "views": "1,000,000",
+        "likes": "150,000",
+        "timestamp": 1626352571000,
+        "comments": [
+            {
+                "name": "Joe Jones",
+                "comment": "This is the greatest video ever",
+                "likes": 0,
+                "timestamp": 1628622461000
+            },
+            {
+                "name": "Mike Willams",
+                "comment": "This video is sub-par",
+                "likes": 0,
+                "timestamp": 1623359541000
+            },
+            {
+                "name": "Dave Duncan",
+                "comment": "This video is the epidome of awsome",
+                "likes": 0,
+                "timestamp": 1626012132000
+            }
+        ],
+        "duration": "3:51"
+    },
+    {
+        "id": "bd73fa80-ae12-47b0-9696-3479e32e6ddf",
+        "title": "sss",
+        "channel": "Blue Eagle",
+        "image": "http://localhost:8080/images/Upload-video-preview.jpg",
+        "description": "ss",
+        "views": "1,000,000",
+        "likes": "150,000",
+        "timestamp": 1626352571000,
+        "comments": [
+            {
+                "name": "Joe Jones",
+                "comment": "This is the greatest video ever",
+                "likes": 0,
+                "timestamp": 1628622461000
+            },
+            {
+                "name": "Mike Willams",
+                "comment": "This video is sub-par",
+                "likes": 0,
+                "timestamp": 1623359541000
+            },
+            {
+                "name": "Dave Duncan",
+                "comment": "This video is the epidome of awsome",
+                "likes": 0,
+                "timestamp": 1626012132000
+            }
+        ],
+        "duration": "3:51"
+    },
+    {
+        "id": "842de52c-f0f1-429c-b532-c35a2554fa85",
+        "title": "wwww",
+        "channel": "Blue Eagle",
+        "image": "http://localhost:8080/images/Upload-video-preview.jpg",
+        "description": "sswww",
+        "views": "1,000,000",
+        "likes": "150,000",
+        "timestamp": 1626352571000,
+        "comments": [
+            {
+                "name": "Joe Jones",
+                "comment": "This is the greatest video ever",
+                "likes": 0,
+                "timestamp": 1628622461000
+            },
+            {
+                "name": "Mike Willams",
+                "comment": "This video is sub-par",
+                "likes": 0,
+                "timestamp": 1623359541000
+            },
+            {
+                "name": "Dave Duncan",
+                "comment": "This video is the epidome of awsome",
+                "likes": 0,
+                "timestamp": 1626012132000
+            }
+        ],
+        "duration": "3:51"
+    },
+    {
+        "id": "1b8775d0-2696-4ba1-b850-b093effe1d69",
+        "title": "sss",
+        "channel": "Blue Eagle",
+        "image": "http://localhost:8080/images/Upload-video-preview.jpg",
+        "description": "sss",
+        "views": "1,000,000",
+        "likes": "150,000",
+        "timestamp": 1626352571000,
+        "comments": [
+            {
+                "name": "Joe Jones",
+                "comment": "This is the greatest video ever",
+                "likes": 0,
+                "timestamp": 1628622461000
+            },
+            {
+                "name": "Mike Willams",
+                "comment": "This video is sub-par",
+                "likes": 0,
+                "timestamp": 1623359541000
+            },
+            {
+                "name": "Dave Duncan",
+                "comment": "This video is the epidome of awsome",
+                "likes": 0,
+                "timestamp": 1626012132000
+            }
+        ],
+        "duration": "3:51"
+    },
+    {
+        "id": "889733a4-a2c6-41ca-80a4-096f3094021d",
+        "title": "sss",
+        "channel": "Blue Eagle",
+        "image": "http://localhost:8080/images/Upload-video-preview.jpg",
+        "description": "sss",
+        "views": "1,000,000",
+        "likes": "150,000",
+        "timestamp": 1626352571000,
+        "comments": [
+            {
+                "name": "Joe Jones",
+                "comment": "This is the greatest video ever",
+                "likes": 0,
+                "timestamp": 1628622461000
+            },
+            {
+                "name": "Mike Willams",
+                "comment": "This video is sub-par",
+                "likes": 0,
+                "timestamp": 1623359541000
+            },
+            {
+                "name": "Dave Duncan",
+                "comment": "This video is the epidome of awsome",
+                "likes": 0,
+                "timestamp": 1626012132000
+            }
+        ],
+        "duration": "3:51"
+    },
+    {
+        "id": "abe03154-d5dc-4046-9c6e-7dcf91346509",
+        "title": "sss",
+        "channel": "Blue Eagle",
+        "image": "http://localhost:8080/images/Upload-video-preview.jpg",
+        "description": "ss",
+        "views": "1,000,000",
+        "likes": "150,000",
+        "timestamp": 1626352571000,
+        "comments": [
+            {
+                "name": "Joe Jones",
+                "comment": "This is the greatest video ever",
+                "likes": 0,
+                "timestamp": 1628622461000
+            },
+            {
+                "name": "Mike Willams",
+                "comment": "This video is sub-par",
+                "likes": 0,
+                "timestamp": 1623359541000
+            },
+            {
+                "name": "Dave Duncan",
+                "comment": "This video is the epidome of awsome",
+                "likes": 0,
+                "timestamp": 1626012132000
+            }
+        ],
+        "duration": "3:51"
+    },
+    {
+        "id": "12612c0e-fc82-475a-86aa-a44173391119",
+        "title": "ddd",
+        "channel": "Blue Eagle",
+        "image": "http://localhost:8080/images/Upload-video-preview.jpg",
+        "description": "ddd",
+        "views": "1,000,000",
+        "likes": "150,000",
+        "timestamp": 1626352571000,
+        "comments": [
+            {
+                "name": "Joe Jones",
+                "comment": "This is the greatest video ever",
+                "likes": 0,
+                "timestamp": 1628622461000
+            },
+            {
+                "name": "Mike Willams",
+                "comment": "This video is sub-par",
+                "likes": 0,
+                "timestamp": 1623359541000
+            },
+            {
+                "name": "Dave Duncan",
+                "comment": "This video is the epidome of awsome",
+                "likes": 0,
+                "timestamp": 1626012132000
+            }
+        ],
+        "duration": "3:51"
+    },
+    {
+        "id": "a4c59f1e-2b70-4001-a2fe-d23e348d1c0b",
+        "title": "ssss",
+        "channel": "Blue Eagle",
+        "image": "http://localhost:8080/images/Upload-video-preview.jpg",
+        "description": "ssss",
+        "views": "1,000,000",
+        "likes": "150,000",
+        "timestamp": 1626352571000,
+        "comments": [
+            {
+                "name": "Joe Jones",
+                "comment": "This is the greatest video ever",
+                "likes": 0,
+                "timestamp": 1628622461000
+            },
+            {
+                "name": "Mike Willams",
+                "comment": "This video is sub-par",
+                "likes": 0,
+                "timestamp": 1623359541000
+            },
+            {
+                "name": "Dave Duncan",
+                "comment": "This video is the epidome of awsome",
+                "likes": 0,
+                "timestamp": 1626012132000
+            }
+        ],
+        "duration": "3:51"
+    },
+    {
+        "id": "18130e8e-170b-41a7-bcab-104a5cfa12ce",
+        "title": "",
+        "channel": "Blue Eagle",
+        "image": "http://localhost:8080/images/Upload-video-preview.jpg",
+        "description": "",
+        "views": "1,000,000",
+        "likes": "150,000",
+        "timestamp": 1626352571000,
+        "comments": [
+            {
+                "name": "Joe Jones",
+                "comment": "This is the greatest video ever",
+                "likes": 0,
+                "timestamp": 1628622461000
+            },
+            {
+                "name": "Mike Willams",
+                "comment": "This video is sub-par",
+                "likes": 0,
+                "timestamp": 1623359541000
+            },
+            {
+                "name": "Dave Duncan",
+                "comment": "This video is the epidome of awsome",
+                "likes": 0,
+                "timestamp": 1626012132000
+            }
+        ],
+        "duration": "3:51"
+    },
+    {
+        "id": "31cb0635-1a75-411d-adb2-339d84b69421",
+        "title": "",
+        "channel": "Blue Eagle",
+        "image": "http://localhost:8080/images/Upload-video-preview.jpg",
+        "description": "",
+        "views": "1,000,000",
+        "likes": "150,000",
+        "timestamp": 1626352571000,
+        "comments": [
+            {
+                "name": "Joe Jones",
+                "comment": "This is the greatest video ever",
+                "likes": 0,
+                "timestamp": 1628622461000
+            },
+            {
+                "name": "Mike Willams",
+                "comment": "This video is sub-par",
+                "likes": 0,
+                "timestamp": 1623359541000
+            },
+            {
+                "name": "Dave Duncan",
+                "comment": "This video is the epidome of awsome",
+                "likes": 0,
+                "timestamp": 1626012132000
+            }
+        ],
+        "duration": "3:51"
+    },
+    {
+        "id": "94fe3053-89bf-4ec6-ad18-ec48286b3809",
+        "title": "",
+        "channel": "Blue Eagle",
+        "image": "http://localhost:8080/images/Upload-video-preview.jpg",
+        "description": "",
         "views": "1,000,000",
         "likes": "150,000",
         "timestamp": 1626352571000,

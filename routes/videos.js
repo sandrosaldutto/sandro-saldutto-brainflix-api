@@ -39,14 +39,13 @@ router.route("/")
     id: uuidv4(),
     title: _req.body.title,
     channel: _req.body.channel,
-    image: _req.body.image,
+    image: "http://localhost:8080/images/Upload-video-preview.jpg",
     description: _req.body.description,
     views: _req.body.views,
     likes: _req.body.likes,
     timestamp: _req.body.timestamp,
     comments: _req.body.comments,
     duration: _req.body.duration,
-    video: _req.body.video,
   }
 
   let videos = getVideos();
@@ -74,5 +73,4 @@ router.get('/:videoId', (req, res) => {
 })
 
 
-// post comments 
 module.exports = router;
